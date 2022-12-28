@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hey There
+
+I **foster success** by encouraging, empowering, and elevating collaborative teams to make the complex simple, the unsustainable sustainable, and the impossible possible.
+
+📫 Reach Out:
+- [LinkedIn](https://www.linkedin.com/in/ericszulc)
+- [@aerekszulc@fosstodon.org](https://fosstodon.org/@aerekszulc)
 
 <!--
 **ericszulc/ericszulc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
